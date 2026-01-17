@@ -15,6 +15,7 @@ Grandes telas: acima de 1200px
     }
 
     section#login {
+        max-height: 380px;
         width: 80vw;
     }
 
@@ -31,14 +32,14 @@ Grandes telas: acima de 1200px
 
     div#formulario > h1 {
         text-align: center;
-        margin-top: 50px;
+        margin-top: 10px;
         margin-bottom: 15px;
     }
 
     div#formulario > p {
         font-size: 1em;
-        margin-top: 30px;
-        margin-bottom: 30px;
+        line-height: 1.4em;
+        margin-bottom: 15px;
     }
 
     form > div.campo {
@@ -50,7 +51,7 @@ Grandes telas: acima de 1200px
     }
 
     form > input[type=submit] {
-        margin-top: 20px;
+        margin-top: 15px;
     }
 
     form > a.botao {
@@ -64,6 +65,7 @@ Grandes telas: acima de 1200px
     }
     
     section#login {
+        max-height: 500px;
         width: 950px;
     }
 
@@ -86,6 +88,7 @@ Grandes telas: acima de 1200px
 
     div#formulario > p {
         font-size: 1em;
+        line-height: 1.4em;
         margin-top: 30px;
         margin-bottom: 30px;
     }
