@@ -15,7 +15,8 @@ Grandes telas: acima de 1200px
     }
 
     section#login {
-        max-height: 380px;
+        min-height: 380px;
+        max-height: 30vh;
         width: 80vw;
     }
 
